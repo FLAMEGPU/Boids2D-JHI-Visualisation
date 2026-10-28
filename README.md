@@ -9,7 +9,7 @@ This FLAME GPU 2 example uses the `pyflamegpu` library. It uses Spatial 2D messa
 To run this template locally you will require:
 
 + Python `>= 3.10`
-+ CUDA `>= 13.0` and a [Compute Capability](https://developer.nvidia.com/cuda-gpus) >= 5.0 NVIDIA GPU (note you can use CUDA 12.0+ but will need to modify the extra-index-url in the requirements file)
++ CUDA `>= 13.0` and a [Compute Capability](https://developer.nvidia.com/cuda-gpus) >= 7.5 NVIDIA GPU (note you can use CUDA 12.0+ but will need to modify the extra-index-url in the requirements file)
 + Linux with `glibc >= 2.28`
   + Windows support/instructions will be introduced at a later date
 + An `x86_64` CPU

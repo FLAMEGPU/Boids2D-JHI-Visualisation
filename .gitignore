@@ -1,0 +1,9 @@
+# Ignore Venv's using common names
+venv*/
+.venv*/
+data/*
+
+# Ignore jupyter notebook checkpoint files
+.ipynb_checkpoints/**
+
+__pycache__

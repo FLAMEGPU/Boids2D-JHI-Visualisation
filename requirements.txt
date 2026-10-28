@@ -1,0 +1,4 @@
+-i https://whl.flamegpu.com/whl/cuda130-vis/
+pyflamegpu==2.0.0rc5
+matplotlib==3.10.0
+numpy==2.2.3
